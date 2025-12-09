@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Helios Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://www.helioslauncher.it"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.helioslauncher.it"
+
+[ejs.settings]
+sourceGithubLink = "https://discord.helioslauncher.it"
+supportLink = "https://discord.helioslauncher.it"
+
+[ejs.welcome]
+welcomeHeader = "Benvenuto/a su Helios Launcher"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 2025 Helios Launcher"
